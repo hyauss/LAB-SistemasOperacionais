@@ -1,6 +1,6 @@
 # Projeto – Uso de Threads e concorrência
 
-Print de execução:
+## Print de execução:
 
 ![image](https://github.com/user-attachments/assets/cc21ce7f-2061-4128-a9ce-edd547316a4c)
 
