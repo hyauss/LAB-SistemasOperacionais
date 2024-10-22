@@ -1,3 +1,5 @@
+//Vinicius Alves Marques
+
 /*
 	Programação em C - Lista encadeada (linked list)
 	Funcionalidades:
