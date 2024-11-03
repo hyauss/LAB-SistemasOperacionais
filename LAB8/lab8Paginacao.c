@@ -5,6 +5,10 @@
 #define NUM_FRAMES 4
 #define NUM_PAGES 8
 
+//Vinicius Alves Marques, RA: 10417880
+//Rafael de Menezes Ros, RA: 10417954
+//Gabriel Barros Albertini, RA: 10419482
+
 // Estrutura para Frame (Memória Física)
 typedef struct {
     int frame_id; // Identificador do frame
